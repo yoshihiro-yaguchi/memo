@@ -13,3 +13,6 @@
 * git pushのときに、origin以外を指定すればうまくいくかもね
 * [ここ](https://mugendennou.net/development/git/sourcetreepush/#Sourcetree)が参考になったよ
 * 2回目以降はうまくいくのか試してない。
+
+## laravel-mixしたいね〜
+* [参考URL](https://reffect.co.jp/laravel/first-laravel-mix#Laravel_Mix-2)
