@@ -11,3 +11,5 @@
 * 'origin' does not appear to be a git repositoryって怒られるかも。
 * `git remote add origin gitのURL`でoriginを追加してやろう。
 * git pushのときに、origin以外を指定すればうまくいくかもね
+* [ここ](https://mugendennou.net/development/git/sourcetreepush/#Sourcetree)が参考になったよ
+* 2回目以降はうまくいくのか試してない。
